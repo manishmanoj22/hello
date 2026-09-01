@@ -39,6 +39,13 @@ p {
   margin: 0 0 1.5rem;
 }
 
+.catchphrase {
+  color: #6a5acd;
+  font-weight: 600;
+  font-style: italic;
+  margin: 0 0 0.75rem;
+}
+
 form {
   display: flex;
   gap: 0.5rem;
