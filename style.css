@@ -22,6 +22,12 @@ body {
   text-align: center;
 }
 
+.hero-image {
+  width: 88px;
+  height: 88px;
+  margin-bottom: 1rem;
+}
+
 h1 {
   margin: 0 0 0.5rem;
   font-size: 1.75rem;
